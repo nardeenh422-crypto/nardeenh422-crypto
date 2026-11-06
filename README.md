@@ -1,5 +1,3 @@
-# nardeenh422-crypto
-
 # Hi, I'm Nardeen Gerges! 👋
 
 🎓 Computer Information Systems Student | Galala University
