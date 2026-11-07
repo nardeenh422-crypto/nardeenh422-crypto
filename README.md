@@ -1,6 +1,6 @@
-# Hi, I'm Nardeen Gerges! 👋
+# Hi, I'm Nardeen Gerges!
 
-🎓 Computer Information Systems Student | Galala University
+🎓 Computer Information Systems Student | Galala University & Arizona State University
 
 ### About Me
 I'm interested in the intersection of business, finance, and technology, with a focus on using data and analytical thinking to solve business problems.
@@ -16,7 +16,6 @@ I'm interested in the intersection of business, finance, and technology, with a 
 - Microsoft Excel
 - Business Analysis
 - Data Analytics
-- Git & GitHub
 - Power BI
 
 ### My Projects
